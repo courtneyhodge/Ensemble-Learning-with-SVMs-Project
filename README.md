@@ -1,4 +1,4 @@
-# Performance Optimization and Ensemble Learning with SVMs
+# Ensemble Learning with SVMs
 
 This repository contains all the materials for a machine learning project focused on the implementation and optimization of Support Vector Machines (SVMs) and Bagging-SVM for classification tasks. The project, entirely developed by Courtney H., explores advanced techniques to improve model performance across multiple datasets.
 
